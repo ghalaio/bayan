@@ -1115,7 +1115,7 @@ The result is a unified **Arabic–English NLP engineering project** designed ar
 
 # Author
 
-**Jory Alshaalan**
+**Ghala Alomran**
 
 Developed as part of:
 
